@@ -2,4 +2,4 @@
 
 Dataset fo Test  
 
-These four images are all of 4096 $\times$ 4096 pixels from  whole slide images of 40x magnification
+These four images are all of 4096 $\cdot$ 4096 pixels from  whole slide images of 40x magnification
